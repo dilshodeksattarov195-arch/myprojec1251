@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerdender",
+        "uuid": 6978078,
+        "checksum": "l9i70n"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
